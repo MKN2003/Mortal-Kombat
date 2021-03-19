@@ -87,8 +87,8 @@ a {
   margin-right: 10px;
 }
 .button-text {
-  vertical-align: text-bottom;
   margin-left: 10px;
+  vertical-align: text-bottom;
 }  
 @media (max-width: 768px) {
   .app {
