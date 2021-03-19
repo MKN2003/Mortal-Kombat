@@ -90,16 +90,12 @@ a {
   vertical-align: text-bottom;
   margin-left: 10px;
 }
-@media (max-width: 1200px) {
-  .app {
-    backround-size: 50%;
-  }
 }  
 @media (max-width: 768px) {
   .app {
     height: auto;
     padding-bottom: 400px;
-    background-position: bottom center;
+    background: url('/img/cover-image.jpg') no-repeat bottom center / 300px ;
   }
   video {
     display: none;
