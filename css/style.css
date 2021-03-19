@@ -90,6 +90,11 @@ a {
   vertical-align: text-bottom;
   margin-left: 10px;
 }
+@media (max-width: 1200px) {
+  .app {
+    backround-size: 50%;
+  }
+}  
 @media (max-width: 768px) {
   .app {
     height: auto;
